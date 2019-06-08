@@ -1,6 +1,6 @@
-# vip-misic
+# vue_translate
 
-> A Vue.js project
+>vue做的一个移动端翻译小应用，可以用Hubilder打包为手机app
 
 ## Build Setup
 
